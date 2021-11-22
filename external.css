@@ -1,0 +1,216 @@
+   body {
+background: #252F48;
+   }
+   .result a{
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 30px;
+  text-shadow:
+    -1px -1px #FFF,
+    -2px -2px #FFF,
+    -1px 1px #FFF,
+    -2px 2px #FFF,
+    1px 1px #FFF,
+    2px 2px #FFF,
+    1px -1px #FFF,
+    2px -2px #FFF,
+    -3px -3px 2px #BBB,
+    -3px 3px 2px #BBB,
+    3px 3px 2px #BBB,
+    3px -3px 2px #BBB;
+  color: steelblue;
+  transition: all 1s;
+
+	text-decoration:none;
+	position:absolute;
+	position:absolute;
+    bottom:0;
+}
+.result a:hover {
+  color: yellowgreen;
+}
+.navigation{
+	  width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navigation input[type="text"]{
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 30px;
+  width:100px;
+  text-shadow:
+  
+    -1px -1px #FFF,
+    -2px -2px #FFF,
+    -1px 1px #FFF,
+    -2px 2px #FFF,
+    1px 1px #FFF,
+    2px 2px #FFF,
+    1px -1px #FFF,
+    2px -2px #FFF,
+    -3px -3px 2px #BBB,
+    -3px 3px 2px #BBB,
+    3px 3px 2px #BBB,
+    3px -3px 2px #BBB;
+  color: steelblue;
+  transition: all 1s;
+  padding:10px 15px;
+
+	text-decoration:none;
+}
+.navigation input[type="submit"]{
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 30px;
+  text-shadow:
+    -1px -1px #FFF,
+    -2px -2px #FFF,
+    -1px 1px #FFF,
+    -2px 2px #FFF,
+    1px 1px #FFF,
+    2px 2px #FFF,
+    1px -1px #FFF,
+    2px -2px #FFF,
+    -3px -3px 2px #BBB,
+    -3px 3px 2px #BBB,
+    3px 3px 2px #BBB,
+    3px -3px 2px #BBB;
+  color: steelblue;
+  transition: all 1s;
+  padding:10px 15px;
+
+	text-decoration:none;
+}
+.navigation a{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 30px;
+  text-shadow:
+    -1px -1px #FFF,
+    -2px -2px #FFF,
+    -1px 1px #FFF,
+    -2px 2px #FFF,
+    1px 1px #FFF,
+    2px 2px #FFF,
+    1px -1px #FFF,
+    2px -2px #FFF,
+    -3px -3px 2px #BBB,
+    -3px 3px 2px #BBB,
+    3px 3px 2px #BBB,
+    3px -3px 2px #BBB;
+  color: steelblue;
+  transition: all 1s;
+
+	text-decoration:none;
+	
+	
+}
+.navigation a:hover {
+  color: yellowgreen;
+}
+.table_dark {
+  font-family: font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 14px;
+  width: 640px;
+  text-align: left;
+  border-collapse: collapse;
+  background: #252F48;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+.table_dark th {
+  color: #EDB749;
+  border-bottom: 1px solid #37B5A5;
+  padding: 12px 17px;
+}
+.table_dark td {
+  color: #CAD4D6;
+  border-bottom: 1px solid #37B5A5;
+  border-right:1px solid #37B5A5;
+  padding: 7px 17px;
+}
+.table_dark tr:last-child td {
+  border-bottom: none;
+}
+.table_dark td:last-child {
+  border-right: none;
+}
+.table_dark tr:hover td {
+  text-decoration: underline;
+}
+P.textCool {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+  font-size: 30px;
+  text-shadow:
+    -1px -1px #FFF,
+    -2px -2px #FFF,
+    -1px 1px #FFF,
+    -2px 2px #FFF,
+    1px 1px #FFF,
+    2px 2px #FFF,
+    1px -1px #FFF,
+    2px -2px #FFF,
+    -3px -3px 2px #BBB,
+    -3px 3px 2px #BBB,
+    3px 3px 2px #BBB,
+    3px -3px 2px #BBB;
+  color: steelblue;
+  transition: all 1s;
+}
+
+
+
+.menuVertical{	width: 300px;
+    margin-left: auto;
+    margin-right: auto;}
+    .menuVertical ul{
+        padding:0px;
+    }
+        .menuVertical ul li{display:block; position:relative;}
+            .menuVertical ul li a{
+				font-family: "Comic Sans MS", "Comic Sans", cursive;
+                position:relative;
+                display:block;
+                width:100%;
+                height:auto;
+                box-sizing:border-box;
+                font-size:18px;
+                color:#FBF7F7;
+                line-height:1.2em;
+                padding:10px 15px;
+  text-shadow:
+    -1px -1px #FFF,
+    -2px -2px #FFF,
+    -1px 1px #FFF,
+    -2px 2px #FFF,
+    1px 1px #FFF,
+    2px 2px #FFF,
+    1px -1px #FFF,
+    2px -2px #FFF,
+    -3px -3px 2px #BBB,
+    -3px 3px 2px #BBB,
+    3px 3px 2px #BBB,
+    3px -3px 2px #BBB;
+  color: steelblue;
+  transition: all 1s;
+                border-top:1px solid #236A92;
+                text-decoration:none;
+            }
+            .menuVertical ul  li:first-child a{border:0px;}
+            .menuVertical ul li a:hover{
+                background:#0A3CC1;
+            }
+            .menuVertical ul li ul{
+                position:absolute;
+                top:0px;
+                left:100%;
+                display:none;
+                width:auto;
+            }
+            .menuVertical ul li:hover ul{display:block;}
+                .menuVertical ul li ul li a{
+                    white-space:nowrap;
+                    text-transform:none;
+                    padding:5px 20px;
+                }
